@@ -25,7 +25,6 @@ Upon initialization, the system performs a **3.8-second Deep Spectral Analysis**
 - Map the frequency spectrum  
 - Identify neural stress patterns  
 - Reveal the dashboard after processing  
-
 ---
 
 ### 🤖 2. AI Neural Inference Engine
@@ -45,16 +44,12 @@ An IoT automation trigger that:
 - Monitors decibel spikes (>60 dB)  
 - Automatically injects a **174 Hz Somatic Relief tone**  
 - Anchors the user’s nervous system  
-
 ---
-
 ### 🌊 4. Neural ANC *(Spectral Masking)*
 A software-driven alternative to hardware ANC:
 - Generates pneumatic Brownian noise (“air pump” hiss)  
 - Dynamically drifts to mask dominant speech/mechanical frequencies  
-
 ---
-
 ### 🪐 5. Celestial Resonance Modes
 Uses **Cosmic Octave mathematics** to generate grounding tones:
 
@@ -137,14 +132,9 @@ AuraPulse aims to pioneer **Neural-Aware IoT Systems** that improve:
 - Multi-device acoustic mesh networking  
 - Biofeedback integration (heart rate / EEG devices)  
 - Mobile companion app  
-
 ---
-
 ## 📄 License
 MIT License — Free for research and personal innovation.
-
 ---
-
-## 👤 Author
 **Bharath Jeyakkumar**  
 Aspiring developer building human-centric AI & IoT systems.
